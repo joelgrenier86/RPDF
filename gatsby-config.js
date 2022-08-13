@@ -68,7 +68,7 @@ module.exports = {
           {
             resolve: "gatsby-plugin-manifest",
             options: {
-              icon: 'src/img/tinyLogo.png'
+              icon: 'src/img/tiny-logo.png'
             },
           },
        

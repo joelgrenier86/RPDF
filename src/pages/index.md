@@ -18,14 +18,14 @@ description: >-
   anyone.
 intro:
   blurbs:
-    - image: /img/PumpkinsOnTable-min.jpeg
+    - image: /img/pumpkins-on-table-min.jpeg
       text: >
         TODOWe sell green and roasted coffee beans that are sourced directly from
         independent farmers and farm cooperatives. We’re proud to offer a
         variety of coffee beans grown with great care for the environment and
         local communities. Check our post or contact us directly for current
         availability.
-    - image: /img/MixedProduce-min.jpeg
+    - image: /img/mixed-produce-min.jpeg
       text: >
         TODOWe offer a small, but carefully curated selection of brewing gear and
         tools for every taste and experience level. No matter if you roast your
